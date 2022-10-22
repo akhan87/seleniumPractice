@@ -36,6 +36,8 @@ public class RelativeXpathParent {
         else {
             System.out.println("Invalid Web Browser.");
         }
+        
+        System.out.println("Changed from GitHub.");
 
         driver.manage().deleteAllCookies();
 

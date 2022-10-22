@@ -76,5 +76,6 @@ public class SeleniumW3Practice {
     public static void main(String[] args) throws Exception{
         SeleniumW3Practice obj = new SeleniumW3Practice();
         obj.switchBrowser("chrome", "https://cricinfo.com", "https://w3schools.com");
+        System.out.println("changes for w3 practice class");
     }
 }
